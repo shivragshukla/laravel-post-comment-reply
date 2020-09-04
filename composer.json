@@ -1,0 +1,26 @@
+{
+    "name": "avihs/laravel-post-comment-reply",
+    "description": "This will create a post, comment, likes and reply & save in database",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shivrag",
+            "email": "shivrag.shukla001@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Avihs\\PostReply\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Avihs\\PostReply\\PostCommentReplyServiceProvider"
+            ]
+        }
+    }
+
+}
