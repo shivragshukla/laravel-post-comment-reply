@@ -16,7 +16,8 @@ This will create a post, comment and reply & save in database.
 ## Installation
 Use the composer require or add to composer.json. 
 ```bash
-https://github.com/shivragshukla/laravel-post-comment-reply.git
+composer require avihs/laravel-post-comment-reply
+
 ```
 
 If you are using SQL database server to store log events you would need to run the migrations first. The MongoDB driver does not require the migration.
