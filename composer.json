@@ -1,6 +1,7 @@
 {
     "name": "avihs/laravel-post-comment-reply",
     "description": "This will create a post, comment, likes and reply & save in database",
+    "keywords": ["posts","comments","replies"],
     "license": "MIT",
     "authors": [
         {
@@ -9,7 +10,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "php": "^7.2.5"
+    },
     "autoload": {
         "psr-4": {
             "Avihs\\PostReply\\": "src/"
