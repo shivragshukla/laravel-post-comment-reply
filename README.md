@@ -1,5 +1,6 @@
 # Laravel Post Comment Reply
-
+[![GitHub issues](https://img.shields.io/github/issues/shivragshukla/laravel-post-comment-reply)](https://github.com/shivragshukla/laravel-post-comment-reply/issues)
+[![GitHub license](https://img.shields.io/github/license/shivragshukla/laravel-post-comment-reply)](https://github.com/shivragshukla/laravel-post-comment-reply/blob/master/LICENSE)
 
 This will create a post, comment and reply & save in database.
 
@@ -7,7 +8,7 @@ This will create a post, comment and reply & save in database.
 * [Installation](#installation)
 * [Usage](#usage)
 * [Blade](#blade)
-* [Advance Eloquent Model](#advance)
+* [Advance Eloquent Model](#advance-eloquent-model)
 * [Example](#example)
 
 > :warning: this add-on is developed to be backwards compatible down to Laravel 5.6+ 
